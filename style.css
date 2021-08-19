@@ -1,0 +1,22 @@
+h1 {
+            color:rgb(42, 0, 165);
+        }
+        *{
+           border:darkkhaki;
+            
+      }
+.header{
+    background-color:rgb(9, 211, 247);
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.item{
+    border:forestgreen;
+    border:solid;
+}
+        
